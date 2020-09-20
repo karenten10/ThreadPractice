@@ -1,0 +1,12 @@
+/Users/karen/Projects/HelloThread/HelloThread/bin/Debug/netcoreapp3.1/HelloThread.deps.json
+/Users/karen/Projects/HelloThread/HelloThread/bin/Debug/netcoreapp3.1/HelloThread.runtimeconfig.json
+/Users/karen/Projects/HelloThread/HelloThread/bin/Debug/netcoreapp3.1/HelloThread.runtimeconfig.dev.json
+/Users/karen/Projects/HelloThread/HelloThread/bin/Debug/netcoreapp3.1/HelloThread.dll
+/Users/karen/Projects/HelloThread/HelloThread/bin/Debug/netcoreapp3.1/HelloThread.pdb
+/Users/karen/Projects/HelloThread/HelloThread/obj/Debug/netcoreapp3.1/HelloThread.csprojAssemblyReference.cache
+/Users/karen/Projects/HelloThread/HelloThread/obj/Debug/netcoreapp3.1/HelloThread.AssemblyInfoInputs.cache
+/Users/karen/Projects/HelloThread/HelloThread/obj/Debug/netcoreapp3.1/HelloThread.AssemblyInfo.cs
+/Users/karen/Projects/HelloThread/HelloThread/obj/Debug/netcoreapp3.1/HelloThread.csproj.CoreCompileInputs.cache
+/Users/karen/Projects/HelloThread/HelloThread/obj/Debug/netcoreapp3.1/HelloThread.dll
+/Users/karen/Projects/HelloThread/HelloThread/obj/Debug/netcoreapp3.1/HelloThread.pdb
+/Users/karen/Projects/HelloThread/HelloThread/obj/Debug/netcoreapp3.1/HelloThread.genruntimeconfig.cache
