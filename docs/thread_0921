@@ -1,4 +1,13 @@
 
+-- Null-conditional operators ?. and ?[]
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/member-access-operators#null-conditional-operators--and-
+
+-- ThreadPool 類別
+https://docs.microsoft.com/zh-tw/dotnet/api/system.threading.threadpool?view=netcore-3.1
+
+-- 使用 async 和 await 進行非同步程式設計
+https://docs.microsoft.com/zh-tw/dotnet/csharp/programming-guide/concepts/async/
+
 如何在Visual studio看c#版本
 
 Thread
