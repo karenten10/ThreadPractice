@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fy1A0cF1uAoJ4jebeEKBW/3AEP5h/bmYUgjLn+IRRPApNJDmW03G575+XQxMQxQfxLZ9uXDRlVNOhWFPwNSJXg==",
+  "dgSpecHash": "dc/K05DwskvzygnjhEby4fjbo6z3ho2thrvL2HTCdfwUhjgocvN7ssXhcaX1zeuuR76oCwy9OFYfjJHM5s/++Q==",
   "success": true,
-  "projectFilePath": "/Users/karen/Projects/HelloThread/HelloThread/HelloThread.csproj",
+  "projectFilePath": "C:\\practice\\ThreadPractice\\src\\HelloThread\\HelloThread\\HelloThread.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

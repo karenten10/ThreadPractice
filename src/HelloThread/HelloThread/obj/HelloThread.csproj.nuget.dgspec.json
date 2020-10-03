@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/karen/Projects/HelloThread/HelloThread/HelloThread.csproj": {}
+    "C:\\practice\\ThreadPractice\\src\\HelloThread\\HelloThread\\HelloThread.csproj": {}
   },
   "projects": {
-    "/Users/karen/Projects/HelloThread/HelloThread/HelloThread.csproj": {
+    "C:\\practice\\ThreadPractice\\src\\HelloThread\\HelloThread\\HelloThread.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/karen/Projects/HelloThread/HelloThread/HelloThread.csproj",
+        "projectUniqueName": "C:\\practice\\ThreadPractice\\src\\HelloThread\\HelloThread\\HelloThread.csproj",
         "projectName": "HelloThread",
-        "projectPath": "/Users/karen/Projects/HelloThread/HelloThread/HelloThread.csproj",
-        "packagesPath": "/Users/karen/.nuget/packages/",
-        "outputPath": "/Users/karen/Projects/HelloThread/HelloThread/obj/",
+        "projectPath": "C:\\practice\\ThreadPractice\\src\\HelloThread\\HelloThread\\HelloThread.csproj",
+        "packagesPath": "C:\\Users\\Karen Wu\\.nuget\\packages\\",
+        "outputPath": "C:\\practice\\ThreadPractice\\src\\HelloThread\\HelloThread\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/karen/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Karen Wu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
